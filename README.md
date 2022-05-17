@@ -9,3 +9,4 @@ Basic Projects with Javascript
 | 04  | [Pokédex](https://github.com/Raven-Isaac-Finch/Pokedex)                                 | [Webpage](https://raven-isaac-finch.github.io/Pokedex/)             |
 | 05  | [Heroes II Database](https://github.com/Raven-Isaac-Finch/Heroes-II-Databse)            | [Webpage](https://raven-isaac-finch.github.io/Heroes-II-Databse/)   |
 | 06  | [Calculator](https://github.com/Raven-Isaac-Finch/Calculator)                           | [Webpage](https://raven-isaac-finch.github.io/Calculator/)          |
+| 07  | [Weather App](https://github.com/Raven-Isaac-Finch/Weather-Application)                 | [Webpage](https://raven-isaac-finch.github.io/Weather-Application/) |
