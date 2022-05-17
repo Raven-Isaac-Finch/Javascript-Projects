@@ -8,3 +8,4 @@ Basic Projects with Javascript
 | 03  | [Find The Number](https://github.com/Raven-Isaac-Finch/Find-The-Number)                 | [Webpage](https://raven-isaac-finch.github.io/Find-The-Number/)     |
 | 04  | [Pokédex](https://github.com/Raven-Isaac-Finch/Pokedex)                                 | [Webpage](https://raven-isaac-finch.github.io/Pokedex/)             |
 | 05  | [Heroes II Database](https://github.com/Raven-Isaac-Finch/Heroes-II-Databse)            | [Webpage](https://raven-isaac-finch.github.io/Heroes-II-Databse/)   |
+| 06  | [Calculator](https://github.com/Raven-Isaac-Finch/Calculator)                           | [Webpage](https://raven-isaac-finch.github.io/Calculator/)          |
