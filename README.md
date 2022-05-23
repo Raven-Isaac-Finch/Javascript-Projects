@@ -8,6 +8,7 @@ Basic Projects with Javascript
 | 03  | [Find The Number](https://github.com/Raven-Isaac-Finch/Find-The-Number)                 | [Webpage](https://raven-isaac-finch.github.io/Find-The-Number/)     |
 | 04  | [Pokédex](https://github.com/Raven-Isaac-Finch/Pokedex)                                 | [Webpage](https://raven-isaac-finch.github.io/Pokedex/)             |
 | 05  | [Heroes II Database](https://github.com/Raven-Isaac-Finch/Heroes-II-Databse)            | [Webpage](https://raven-isaac-finch.github.io/Heroes-II-Databse/)   |
-| 06  | [Calculator](https://github.com/Raven-Isaac-Finch/Calculator)                           | [Webpage](https://raven-isaac-finch.github.io/Calculator/)          |
-| 07  | [Weather App](https://github.com/Raven-Isaac-Finch/Weather-Application)                 | [Webpage](https://raven-isaac-finch.github.io/Weather-Application/) |
-| 08  | [ID Validation](https://github.com/Raven-Isaac-Finch/TR-Identity-Number-Validation)     | [Webpage](https://raven-isaac-finch.github.io/TR-Identity-Number-Validation/) |
+| 06  | [Calculator w/Class](https://github.com/Raven-Isaac-Finch/Calculator)                   | [Webpage](https://raven-isaac-finch.github.io/Calculator/)          |
+| 07  | [Calculator w/o Class](https://github.com/Raven-Isaac-Finch/My-Calculator)              | [Webpage](https://raven-isaac-finch.github.io/My-Calculator/)       |
+| 08  | [Weather App](https://github.com/Raven-Isaac-Finch/Weather-Application)                 | [Webpage](https://raven-isaac-finch.github.io/Weather-Application/) |
+| 09  | [ID Validation](https://github.com/Raven-Isaac-Finch/TR-Identity-Number-Validation)     | [Webpage](https://raven-isaac-finch.github.io/TR-Identity-Number-Validation/) |
