@@ -13,5 +13,5 @@ Basic Projects with Javascript
 | 08  | [Weather App](https://github.com/Raven-Isaac-Finch/Weather-Application)                 | [Webpage](https://raven-isaac-finch.github.io/Weather-Application/) |
 | 09  | [ID Validation](https://github.com/Raven-Isaac-Finch/TR-Identity-Number-Validation)     | [Webpage](https://raven-isaac-finch.github.io/TR-Identity-Number-Validation/) |
 | 10  | [To-Do App](https://github.com/Raven-Isaac-Finch/Bootstrap-To-Do-App)                   | [Webpage](https://raven-isaac-finch.github.io/Bootstrap-To-Do-App/) |
-| 11  | [Hangman](https://github.com/Raven-Isaac-Finch/Hangman-App)                             | [Webpage](https://raven-isaac-finch.github.io/Hangman-App/)         |
-| 12  | [Advice Generator](https://github.com/Raven-Isaac-Finch/Advice-Generator)               | [Webpage](https://raven-isaac-finch.github.io/Advice-Generator/)    |
+| 11  | [Advice Generator](https://github.com/Raven-Isaac-Finch/Advice-Generator)               | [Webpage](https://raven-isaac-finch.github.io/Advice-Generator/)    |
+| 12  | [Game: Hangman](https://github.com/Raven-Isaac-Finch/Hangman-App)                       | [Webpage](https://raven-isaac-finch.github.io/Hangman-App/)         |
