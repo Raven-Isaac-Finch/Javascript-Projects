@@ -16,3 +16,5 @@ Basic Projects with Javascript
 | 11  | [Advice Generator](https://github.com/Raven-Isaac-Finch/Advice-Generator)          | [Webpage](https://raven-isaac-finch.github.io/Advice-Generator/)           | ![image](https://user-images.githubusercontent.com/99633768/172044558-a331c90a-8dd3-48f7-b1b2-fb3a3af890f0.png) |
 | 12  | [Game: Hangman](https://github.com/Raven-Isaac-Finch/Hangman-App)                  | [Webpage](https://raven-isaac-finch.github.io/Hangman-App/)                | ![image](https://user-images.githubusercontent.com/99633768/172044573-95ac944e-bae0-40b0-8fad-2db64bd959a8.png) |
 | 13  | [Game: Wordle](https://github.com/Raven-Isaac-Finch/Wordle-Clone)                  | [Webpage](https://raven-isaac-finch.github.io/Wordle-Clone/)               | ![image](https://user-images.githubusercontent.com/99633768/172044653-10ad59c5-bfbb-4f66-b4c1-507403830a11.png) |
+| 14  | [Countries of the World](https://github.com/Raven-Isaac-Finch/Countries)           | [Webpage](https://raven-isaac-finch.github.io/Countries/)                  | ![image](https://user-images.githubusercontent.com/99633768/172168468-111b2eae-9736-4f6f-86b2-e738e7f439f0.png) |
+
